@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f53c567-8a88-476d-8f22-23f6c421078c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1irgQDSZeQxj90DJ96Ap37ZxPdH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" node-parameters="yarn run watch:prettier">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling log-folder="/." />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f53c567-8a88-476d-8f22-23f6c421078c" name="Default Changelist" comment="" />
+      <created>1602671107310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602671107310</updated>
+      <workItem from="1602671108478" duration="4894000" />
+      <workItem from="1602756825835" duration="2328000" />
+      <workItem from="1602842799191" duration="448000" />
+      <workItem from="1602914098898" duration="183000" />
+      <workItem from="1602929153665" duration="32000" />
+      <workItem from="1602929228767" duration="4603000" />
+      <workItem from="1602938330451" duration="99000" />
+      <workItem from="1603044708184" duration="404000" />
+      <workItem from="1603047266284" duration="2964000" />
+      <workItem from="1603102355417" duration="4000" />
+      <workItem from="1603102412608" duration="2990000" />
+      <workItem from="1603189024006" duration="5060000" />
+      <workItem from="1603275461457" duration="5579000" />
+      <workItem from="1603434632007" duration="153000" />
+      <workItem from="1603447184217" duration="6810000" />
+      <workItem from="1603818660008" duration="23000" />
+      <workItem from="1604052222774" duration="350000" />
+      <workItem from="1604052613639" duration="1828000" />
+      <workItem from="1604054507148" duration="1730000" />
+      <workItem from="1604056435769" duration="959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1699" y="179" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603450746884">
+      <screen x="1440" y="23" width="1024" height="698" />
+    </state>
+    <state x="1699" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.23.1024.698@1440.23.1024.698" timestamp="1603450746884" />
+    <state x="1617" y="38" width="670" height="676" key="search.everywhere.popup" timestamp="1603448121811">
+      <screen x="1440" y="23" width="1024" height="695" />
+    </state>
+    <state x="1617" y="38" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.23.1024.695@1440.23.1024.695" timestamp="1603448121811" />
+    <state x="1617" y="38" key="search.everywhere.popup/1440.23.1024.691/0.23.1440.877@1440.23.1024.691" timestamp="1602757933433" />
+  </component>
+</project>
